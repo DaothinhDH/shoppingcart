@@ -1,0 +1,19 @@
+.back-top{
+    height: 3rem;
+    width: 3rem;
+    padding: 10px;
+    border: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back-top:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}

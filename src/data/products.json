@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Đai lưng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+    "price": 50000,
+    "description": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+  },
+  {
+    "product_id": 2,
+    "product_name": "Sét đồ đi chơi",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(4).webp",
+    "price": 50000,
+    "description": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+  },
+  {
+    "product_id": 3,
+    "product_name": "Giầy Nike hồng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/shoes%20(3).webp",
+    "price": 50000,
+    "description": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+  },
+  {
+    "product_id": 4,
+    "product_name": "Giầy Nike",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(23).webp",
+    "price": 500000,
+    "description": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+  }
+]
